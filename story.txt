@@ -1,4 +1,6 @@
 This is the start of the story.
 This is a great story.
-This is almost the end.
+This is almost the end. 
+This is the end of the story.
+La Fin.
 This is Sean actually ending the story.
